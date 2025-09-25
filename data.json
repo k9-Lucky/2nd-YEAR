@@ -1,0 +1,559 @@
+{
+  "home": {
+    "first": {
+      "physics": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1hemsPDWJHlIOZLbHCJ8HHcd9vepwaWW-/view?usp=drive_link",
+          "UNIT 2": "https://drive.google.com/file/d/1ilhu9A8xxWoIcI9_rur_S_-5c5bWu5da/view?usp=drive_link",
+          "UNIT 3": "https://drive.google.com/file/d/17GjAFypgGxpPfYQJEO4xn8W25QhIuVru/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/1ePGrZHAgLTsj5TXmIv0B6GQt0WpGIAus/view?usp=drive_link",
+          "UNIT 5": "https://drive.google.com/file/d/1WVa1h7nDEQjhGbLlRk1hnVC5JdnBb2BC/view?usp=drive_link",
+          "COMPACT NOTES": "https://drive.google.com/file/d/1PdRNmhyszRV647noL8FIH3LbTdBA3YNV/view?usp=drive_link",
+          "UNIT WISE ASSIGNMENT QUESTIONS BOOKLET": "https://drive.google.com/file/d/1GZIvj77DZL98-649AdwqrfGzOvtXwwhu/view?usp=drive_link"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1DhpkdftWcg_s3u3HRRkXC1HYSuc_ANyZ/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1k0HBgSWIv78YKNNAVf7fPmHx3Jski12W/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1UEJfuwf1VtuRywEebIn7IkTGQoBwef8a/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/1MKfuMsHxGRxs-p8h-kR1vr5CqmTJwoDU/view?usp=drive_link",
+          "UNIT 5": "https://drive.google.com/file/d/1vmBgeBmI1PKI78or2FmPa0ZbzGCZA7_m/view?usp=sharing/"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BAS101-ENGINEERING-PHYSICS.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/ENGINEERING-PHYSICS-BAS201.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/ENGINEERING-PHYSICS-BAS-101.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/ENGINEERING-PHYSICS-KAS201T.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1FkImupV23naPOKowzaKMjqV3-2BCMxrD/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1B82V3fZEW2RSyAENr6pd1xLcXNcQFW-u/view?usp=sharing",
+          "RE-SESSIONAL": "https://drive.google.com/file/d/11yaZ_3MYpARaEGfW4hBwPzOwsfQqFTzx/view?usp=sharing"
+        }
+      },
+      "chemistry": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1S1UqXjNGfkzbgDZgfoFetZ5RzlGynVXw/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1Q702sL7BK8QS61fNUs1XySB2T9PfaAHe/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1di08UxtnFCR3qqXDjegGd_FNF4uvtmFI/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1rmd9qgq6NTNPV_nTL2tY4alJX8MUkwGn/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1n7yHBJ-TH3Kf7Dr6cMx3TVPcX4n8i0Cv/view?usp=sharing",
+          "COMPACT NOTES": "https://drive.google.com/file/d/1wNBfng5h3FVQ6CJszxnu-WjxT-phAdGw/view?usp=drive_link"
+        },
+        "Youtube Video (Gateway Classes)": {
+          "UNIT 1": ["https://youtu.be/GrgAfJV2slg?si=jcRIR-Vox0qanDOb", "Watch"],
+          "UNIT 2": ["https://youtu.be/Zlyun_EHutE?si=RyYWHd5lcZRCKAGH", "Watch"],
+          "UNIT 3": ["https://youtu.be/bfdHVERcSYo?si=8m1Wk1H45zBXpV7g", "Watch"],
+          "UNIT 4": ["https://youtu.be/4HWIr-2N53E?si=PdWWDUc8_y6-8tQs", "Watch"],
+          "UNIT 5": ["https://youtu.be/XIdSjY5iZbY?si=d6xGRE3eupGawAlq", "Watch"]
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BAS102-ENGINEERING-CHEMISTRY.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/ENGINEERING-CHEMISTRY-BAS202.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/ENGINEERING-CHEMISTRY-BAS-102.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/ENGINEERING-CHEMISTRY-KAS202T.pdf",
+          "SEM 1 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/CHEMISTRY-KAS-102-2.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1DgY8Zd_6eflv-gNQS77J6GYQnaCY5m29/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1X-bJCxpaAgKsdvCIFMFwLZJPu-GqNJop/view?usp=drive_link",
+          "PUT(ALL SUBJECTS)": "https://drive.google.com/file/d/1v2DtiNmMN-bbPcDb_AvNKhCIzcv5-J1X/view?usp=drive_link"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1su53Lo4Si45bxDzgs6iSOVcFlB27JjtK/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1aISsS0llHHtIAHK1fJnl2o6oUdXv4QW9/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1xnMMQoQmg5DqlZOAsKwvEA_1ExrY3NcH/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1rxL8DcxEPavEfKYUFNUJo7vlLfB-nzOx/view?usp=drive_link",
+          "UNIT 5": "https://drive.google.com/file/d/1KyiGKKfWEMwi7iJl59YpMc3UMcITHcRG/view?usp=drive_link",
+          "Practical File": "https://drive.google.com/file/d/1eytZleIukXuVbu7y0xAGk0yVxcQlHEUO/view?usp=drive_link"
+        }
+      },
+      "soft skills": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/19vXCJ-_PAt8P0BF7IHTUFGthegq_B8Bw/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1cT8Bt_tQIspvKjw4Mv8iVmt31C7Nv-GP/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/16Nn2V8WUynd6mvQkCBXSUvlDUFu8ylVa/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1qCDuD_Fo3zID77osiO6k1ivWLyTgUAOy/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1FryS72A78UaVfXUVXEevvTxQ2sfcM7uB/view?usp=sharing"
+        },
+        "assignments": {
+          "UNIT 1,2 (is together)": "https://drive.google.com/file/d/14C77wBnFStaTrvV0Rd7sc7R3TvxmtLpB/view?usp=drive_link",
+          "UNIT 3": "https://drive.google.com/file/d/1Cnwh2Ki5J6_MNFabhcN3u-eFi6TYrSR/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/1LuVwRfVNWtGUKIU-eyQ-F9sfTEoSnmwn/view?usp=sharing",
+          "PRACTICAL FILE": "https://drive.google.com/file/d/17DYlLRsV7Sc8nOdHa3jJ1wXG359y7F1n/view?usp=sharing"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BAS105-SOFT-SKILLS.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/SOFT-SKILLS-BAS205.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/SOFT-SKILLS-BAS-105.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/SOFT-SKILL-II-KNC201.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1sOl5Mmmv20UIBlWtJArmbkw60dQ0YNhu/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1acWN-WkX8A7rgAX7ubF9EsTD_hKSSRbh/view?usp=drive_link",
+          "PUT(ALL SUBJECTS)": "https://drive.google.com/file/d/1v2DtiNmMN-bbPcDb_AvNKhCIzcv5-J1X/view?usp=drive_link"
+        }
+      },
+      "electrical": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1mq-6fDCxWXGtllMYgtuYiqTLRkLo17vB/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1iPHkyWoHH3uK7WyAihK1KNvGANLtc6br/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1nWHaPoNdfh5Bg_hRz7ulqlfzU6iY2xGi/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1pemzNRquLLyf8brkaqiW1CurYc-OVO2i/view?usp=sharing",
+          "Compact Notes": "https://drive.google.com/file/d/1kZw5GD1wqteniyVFmg6vU30XVpIpb-lS/view?usp=sharing"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BEE101-FUNDAMENTALS-OF-ELECTRICAL-ENGINEERING.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/FUNDAMENTALS-OF-ELECTRICAL-ENGINEERING-BEE201.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/Fundamentals-of-Electrical-Engineering-BEE-101.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/BASIC-ELECTRICAL-ENGINEERING-KEE201T.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1yuCcQpUlqa4H9aNTbCZytNRkkUAtIkAn/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1KpXj4PFxrNMyZxoF2o4uaADN8Ygh0sH6/view?usp=sharing",
+          "Pre University Test(PUT)": "https://drive.google.com/file/d/10rG8CzoBVjOccFdPzXtNOay8WBkGusWz/view?usp=sharing"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1wblu74nxz-To_H6Ymqql8LW50a7k55hu/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1XMtvFYQWeFk7UnPYleXBAdP2Z81sUXsT/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1xZJxiQcxUuT7j9Cb_4iXXCpW_wEg76FE/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1ITwrQnk-MZ2uQR86WfubaAe8Skal1Bj9/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1AhYPQF9M_hnZe4iBOuqdv-R0unuRGl4b/view?usp=sharing"
+        }
+      },
+      "electronics": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/16sdnMwAhyXuPHWT2gpeLtlTVpjRcxHBn/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/12iuKVrZC0pT00GmEym0aZ_C7Uo5KL5QN/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/19K4DJvhJCw6XJNxEf668ouxcieUEWkkP/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1Ygeuvm9eV2JcMPIn_Q6Nf0B0DcZRloxd/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1EPsnb9AiZ1Dx-nt4dVxhw2uXtdCkeEXw/view?usp=sharing",
+          "Compact Notes": "https://drive.google.com/file/d/1nZY60K9k4wQGyhgBM7xqQ9YVmzQefP_6/view?usp=drive_link"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1A8E4n_aH4jCMXG-WtB9FZVjDCTkYxW6m/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1OwbuP1V-W4A3Ua21bgzMpnMJ4p3s5wqW/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1W-ohx1uWTCaaklkCB9YpBDxYUWk8vx-k/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/1oqK1uqHUce6iOmxnIt-GyVvuvF4vAAaD/view?usp=drive_link",
+          "UNIT 5": "https://drive.google.com/file/d/1qQFybXJF9dMy-mEulCRn53dO-DTrQpMm/view?usp=drive_link"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BEC101-FUNDAMENTALS-OF-ELECTRONICS-ENGINEERING.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/FUNDAMENTALS-OF-ELECTRONICS-ENGINEERING-BEC201.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/FUNDAMENTALS-OF-ELECTRONICS-ENGINEERING-BEC-101.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/EMERGING-DOMAIN-IN-ELECTRONICS-ENGINEERING-KEC201T.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1Pwpxt7JV-yIcLOPKsNRXj-NTk7Efltkr/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/111BS_cAFPjFCp4IJyZwIC8w8xyGJE6oC/view?usp=drive_link",
+          "PUT(ALL SUBJECTS)": "https://drive.google.com/file/d/1v2DtiNmMN-bbPcDb_AvNKhCIzcv5-J1X/view?usp=drive_link"
+        }
+      },
+      "evs": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1_ctzkGII8doTWDDHrCFrhU-1bJCaACSB/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1O1ynCpNGNyIEcLon83TlE8Xl8Mlz39Tz/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1rkLYY6tN0Bt1oPLpdDbGFXDdCrTbwmLq/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1OyNTDGh6CGR79EV1RRSWLof4jPjnwJ-7/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1N4FKjaN0BtIT33NDm97OOGZIcJhEEtxr/view?usp=sharing",
+          "Compact Notes": "https://drive.google.com/file/d/1b0u1Xe1P47MAsoqnNF2rz2_jgpHbp773/view?usp=sharing"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1a281cc7m2Gdr-dwl6x68wQ54oGABjVCb/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1Jbjg5Mm2DO3WFmQlEWkvlg0fisS_yZr1/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1AxWvuW43-zf_lCPJO5dzysYkM2Yl7T1n/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1unbLYAK4HkDmho5WpZy9-UIqJ5CWBmyu/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1PjnPo84_xa8hj3AuVehpOPDQP4K0a1k4/view?usp=sharing"
+        },
+        "paper": {
+          "AKTU SEM 2 2022-23": "https://drive.google.com/file/d/14lNBQfi5w5Os3M1zIt6vCZwVDshS2s8M/view?usp=sharing",
+          "AKTU SEM 1 2022-23": "https://drive.google.com/file/d/1z-sAUYZgaTc9Ziyw7GE2LpysBtwIh-AK/view?usp=drive_link",
+          "AKTU SEM 1 2019-20": "https://drive.google.com/file/d/1H3ftibZkyU6V5ktb-BYQH9azngb2MTmt/view?usp=drive_link",
+          "AKTU SEM 1 2018-19": "https://drive.google.com/file/d/1hyHzSSsdMZjY39gCAceevMGBnwrZ10_a/view?usp=drive_link",
+          "2023-24 ODD-EVS (BAS104)-PUT OB1-8": "https://drive.google.com/file/d/1DlbJEbTEhPyMJ3fA3nCwu756ZxRKl0EZ/view?usp=sharing",
+          "2023-24 ODD-EVS (BAS104)-PUT OY1-4": "https://drive.google.com/file/d/1Sr240Ai82DkQWLLb3nHf-CBTKSlMCQYn/view?usp=sharing",
+          "2023-24 ODD-EVS (BAS104)-PUT OY5-8": "https://drive.google.com/file/d/1E4CjJ-GGApCv742sQkbip7msioCtEAd-/view?usp=sharing",
+          "2023-24 ODD-EVS (BAS104)-Re-ST-1 OP1,2,13,14": "https://drive.google.com/file/d/19cIg7qfj2Ojrl2L2V919vNRRK_QL-tHQ/view?usp=sharing",
+          "2023-24 ODD-EVS (BAS104)-ST-1 OP1,2,13,14": "https://drive.google.com/file/d/1q9Ef0Ob6lUBtCdMq-nOcKmCwHcUlGET_/view?usp=sharing",
+          "2023-24 ODD-EVS (BAS104)-ST-1 OP3-12": "https://drive.google.com/file/d/1kJC-KqMfCBm3CsN_2kr1yAs5AUpL8x6O/view?usp=sharing",
+          "2023-24 ODD-EVS (BAS104)-ST-1 OP11": "https://drive.google.com/file/d/12BBDUfsR-sMEJtAuUUAisMUMnmQ-o1__/view?usp=sharing"
+        }
+      },
+      "maths sem 1": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1f8PiswGsArz8U4edJg3_5Nk0YnWrPOqo/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1ZPhg5DcNNbvQS8C6M7ouCtfpP_VcDWVF/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1JzsFgLA6hrcLUDZ150tJ4-A9Vo1MTGLU/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1xXXtGS8lxPKKacCr3SEWG7-XXZ9oJkko/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1GAYUDIbVpZCOydoVOWS8hlDd3lyzBWtl/view?usp=sharing",
+          "Compact Notes": "https://drive.google.com/file/d/12Sq72O5qPybI6a6C-benUF7dJ5ogTU7P/view?usp=sharing"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1Ne42V3aS8nGRr4JInXQZVwA6F0LJXEM5/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1b2JZDwhrNqpu9_bS5FWffDDS6YgCUT9G/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/16i_hLme__4upL5Nd_KIosZSgSWM6Jvj1/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1uYLkIgZJ80MOz1SYhUzddC8dLeIgFIAs/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1Zel835qmmMzCG_Mwgv05U5RcdgZgZNS0/view?usp=sharing"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BAS103-ENGINEERING-MATHEMATICS-I.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/ENGINEERING-MATHEMATICS-I-BAS-103.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/11kHEM-s27K7O7M2FAZDkVwIAsPG_7CTU/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/10_52Sj11Rxg9tFbFrhBREfurIYMdRCi9/view?usp=drive_link"
+        }
+      },
+      "maths sem 2": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1tKDRd5UYGHLQadeLeMcmH26O1Kbraal3/view?usp=drive_link",
+          "UNIT 2": "https://drive.google.com/file/d/1JheJZLuNNZPMDNEpddExSqbLjsPVRs_J/view?usp=drive_link",
+          "UNIT 3": "https://drive.google.com/file/d/1UMzXF7o3GrxklQ25eVOwJimV4-99BvKl/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/1csRKPVnoDqom5B7ET80-8Y_9R40vTpg-/view?usp=drive_link",
+          "UNIT 5": "https://drive.google.com/file/d/1WwUDjVYzKDTGFYawnt6YAYvK-QAGg1pV/view?usp=drive_link"
+        },
+        "assignments": {
+          "Assignment Questions Booklet": "https://drive.google.com/file/d/1ScJLYTyFYscoEyqY1_N42_lRqbJ1ZDE7/view?usp=sharing",
+          "UNIT 1": "https://drive.google.com/file/d/14HBvQxlT-PuNZfNdtpI-CXKzFDqB3iGX/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1gxxG6LNF6b8LcFyNeosR0EJXMPJOrK7R",
+          "UNIT 3": "https://drive.google.com/file/d/1bj105DblXu7GPYXl5JGZoM1BAL9AqEzF/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1LmYmgrNqYipFdYAp156Ng7er8BHxjcEm/view?usp=drive_link",
+          "UNIT 5": "https://drive.google.com/file/d/12TN2oF2Cou2MRFy9DwJZix5sasRpe8Fe/view?usp=sharing"
+        },
+        "paper": {
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/ENGINEERING-MATHEMATICS-II-BAS203.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/ENGINEERING-MATHEMATICS-II-KAS203T.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1Vi2MWTkDnXohiLzrfpieHo5L8PMcDXOF/view?usp=sharing",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1Xrj7jBZ4GgVXZ1EOckEJDHmqZnp2krtx/view?usp=drive_link",
+          "Pre University Test(PUT)": "https://drive.google.com/file/d/1A1lcU4L92PAGBAQMQMBmxr8lmcTLAObj/view?usp=sharing"
+        }
+      },
+      "mechanical": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/13DHJNC6ysKuo3NOOdLIneacX8hpKxvk-",
+          "UNIT 2": "https://drive.google.com/file/d/14g3pwWi2Ql7r4Jo0AB6YbsPWdMzgHsae/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1EL6Y8d9wKY68OtTaj1bzYYnn_YBFsB_Y/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/12OYDQw6UhF7yPdIYEBnMAU0OOevE4LHc/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1UFACF7UxOrKDNxEQ6hwWgLZUx7_csLFz/view?usp=sharing",
+          "COMPACT NOTES": "https://drive.google.com/file/d/15uu7Ql86KfONBMVUa61CLHRbMY1DuH0Z/view?usp=drive_link"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1WfWXLnhEgBNygoYXqtCTeLjr3STNmXT3/view?usp=sharing",
+          "UNIT 2": "https://drive.google.com/file/d/1TgimPTovzkQ5ZDFMwzULdC6fr96Sm7lO/view?usp=drive_link",
+          "UNIT 3": "https://drive.google.com/file/d/1qnA5VF1-KUfpiO3Sr_qObhti0-eu9V8W/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/17oACpg5Q9jsYbcsiOGL_A_rlMp7zADuq/view?usp=drive_link",
+          "PRACTICAL FILE": "https://drive.google.com/file/d/1TFc8kMUj0ApCAwrmdK5fhxL5ND-pdtO-/view?usp=sharing"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BME101-FUNDAMENTALS-OF-MECHANICAL-ENGINEERING.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/FUNDAMENTALS-OF-MECHANICAL-ENGINEERING-BME201.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/Fundamentals-of-Mechanical-Engineering-BME-101.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/FUNDAMENTALS-OF-MECHANICAL-ENGINEERING-MECHATRONICS-KME201T.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/16z3Q7XWv_vekUiAQ5PlNq3cbxQfHnN-u/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1O6OpySP7RmNBbG-qXJz3PF-CbWry64yE/view?usp=drive_link",
+          "PUT(ALL SUBJECTS)": "https://drive.google.com/file/d/1v2DtiNmMN-bbPcDb_AvNKhCIzcv5-J1X/view?usp=drive_link"
+        }
+      },
+      "pps": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1Isfy4v8sXESnH7yFuVEH8g3pLEDpEuyI/view?usp=drive_link",
+          "UNIT 2": "https://drive.google.com/file/d/19bRSddg5ma6S5U05kOQfRDT5_sQ6yklb/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1DHj9SBGEnHE5NRo67f_3PIg42BoxBe-s/view?usp=drive_link",
+          "UNIT 4": "https://drive.google.com/file/d/1fdZB-Z-nUDW9Zjp8U5dsOTq34EdmaOhA/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1fM-N1kY6SrGziUxS9hE0cOS8n_T70oPW/view?usp=drive_link",
+          "Compact Notes": "https://drive.google.com/file/d/1d2-WjWD6QNeGIiIOERdTpcgMyMg1Nasq/view?usp=drive_link"
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/165PjT88ZJVP0wkWd4gdnjvezhphyAC5s/view?usp=drive_link",
+          "UNIT 2": "https://drive.google.com/file/d/1kQ5EXg4IDZThGNsgsf9PARWYCyITU4Pj/view?usp=sharing",
+          "UNIT 3": "https://drive.google.com/file/d/1SGEB9iNNH4zhSe6qXApnnBTXLYjLb_sI/view?usp=sharing",
+          "UNIT 4": "https://drive.google.com/file/d/1m-LF9_VSU1b3cZG2ZwQRhrKgHoiTzEcK/view?usp=sharing",
+          "UNIT 5": "https://drive.google.com/file/d/1ZlVPWbNaSPyf_e4rsxhWJP0rcQ4osSOT/view?usp=sharing"
+        },
+        "paper": {
+          "SEM 1 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BCS101-PROGRAMMING-FOR-PROBLEM-SOLVING.pdf",
+          "SEM 2 2022-23": "https://www.abesit.in/wp-content/uploads/2023/10/PROGRAMMING-FOR-PROBLEM-SOLVING-BCS201.pdf",
+          "SEM 1 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/PROGRAMMING-FOR-PROBLEM-SOLVING-BCS-101.pdf",
+          "SEM 2 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/PROGRAMMING-FOR-PROBLEM-SOLVING-KCS201T.pdf",
+          "SESSIONAL 1": "https://drive.google.com/file/d/1vlIKAkPSw3Dgsk9atNI3HHCX7ozGd6MG/view?usp=drive_link",
+          "SESSIONAL 2": "https://drive.google.com/file/d/1hJ6fzECNv3mTYh5R8rfpfZmVdkcLlUj1/view?usp=sharing"
+        }
+      }
+    },
+    "second": {
+      "Automata": {
+        "notes": {
+          "UNIT 1(1)": "https://drive.google.com/file/d/10VRmFQyuFHxhmacRvUKjeTUoPWTfpYDr ",
+          "UNIT 1(2)": "https://drive.google.com/file/d/10VEuAWzOsmSNdW0apzddOvj57EV3a6nZ ",
+          "UNIT 2": "https://drive.google.com/file/d/10gkEV0rlgbsjTIr0qpZ_H8SY3PBjVDVX ",
+          "UNIT 3 (Numericals)": "https://drive.google.com/file/d/106x5waiBbsl78szxJ8klZLI4ysT6f9Qz ",
+          "UNIT 3": "https://drive.google.com/file/d/10md77Gj-iHOHKTlf77PD9d2Nfue0A0FM ",
+          "UNIT 4": "https://drive.google.com/file/d/10dG1cLpZLs8_p13lc1AYhDzIdiN3o4uY ",
+          "UNIT 4 (Numericals)": "https://drive.google.com/file/d/10PzBqBiuXzM0FevJtWFfpYURQdRTKIlI ",
+          "UNIT 4 (Remaining topics)": "https://drive.google.com/file/d/10FzeEbMFegPj_xPBj7bk5YEywWScaRgM ",
+          "Grammar for CD": "https://drive.google.com/file/d/10HEp389YzY2OvacyIA8KXD2NxnDftbtz ",
+          "UNIT 5(V1)": "https://drive.google.com/file/d/10_DR10YU4wGIkyEs9OTl6kylifek10M8 ",
+          "UNIT 5(V2)": "https://drive.google.com/file/d/10BMJ4M3dQ3t0UeeHHmxM7grJ953Ktd_w "
+        },
+        "important": {
+          "UNIT 2, 3, 4 (IMP)": "https://drive.google.com/file/d/10ldZwkVkGjq8viBrhlaKBtumhnpII00a "
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BCS301-DATA-STRUCTURE.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/DATA-STRUCTURE-KCS-301.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/DATA-STRUCTURE-KCS-301.pdf ",
+          "ST-1": "https://drive.google.com/file/d/13wRUVrmEmMW-gz6y6tggJ708-bedi-ho ",
+          "ST-2": "https://drive.google.com/file/d/13tZd_PaXaWOVAq8g4RtzOdOuV9wxSNz2 ",
+          "PUT 2023-24": "https://drive.google.com/file/d/15qE_cDkjOKM4zUan7NDmgN0DSjr0lrGZ ",
+          "PUT 2022-23": "https://drive.google.com/file/d/15oK5BzgjKfpzG-wlyA9e59ZzLq6TGn55 "
+        }
+      },
+      "COA": {
+        "notes": {
+          "Studocs Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/119NfiDLS1Weukry50ERWosz8i14OAKwr ",
+            "UNIT 2": "https://drive.google.com/file/d/117kq_0i7n8G6pGCnbO3n5THzhd1_5j2k ",
+            "UNIT 3": "https://drive.google.com/file/d/11H1A0pj-2rm_-OG64kImpDIu2pA2pKp8 ",
+            "UNIT 4": "https://drive.google.com/file/d/11TDInCgEYwg5Q2op7S0P1cWVQETlvQCT ",
+            "UNIT 5": "https://drive.google.com/file/d/11J4-NP7L-l4K5Adl8-_3M1cDqnmJfQgI "
+          },
+          "MONICA MA'AM": {
+            "UNIT 1": "https://drive.google.com/file/d/10jllhGg7OfEbrpZXZjEHyBEmddF8SZRu ",
+            "UNIT 2": "https://drive.google.com/file/d/111jnG6URuVfERK8SPcMtVXK7iWCVQ7B_ ",
+            "UNIT 3": "https://drive.google.com/file/d/10p7xoZpJOkE9NKf9poFz2PuWk2rnqMAx ",
+            "UNIT 4": "https://drive.google.com/file/d/113vTdsKNiC1qV89BZdgT60TsHDJO0Ph6 ",
+            "UNIT 5 part 1": "https://drive.google.com/file/d/1132XkKK7xQz6rwcPvyHjIUXyzkeCWygX ",
+            "UNIT 5 part 2": "https://drive.google.com/file/d/11Gu15HA9Y-Nr--mKBozB9Hcl1HzGarNc "
+          },
+          "hand written notes": {
+            "UNIT 1": "https://drive.google.com/file/d/11hK7arqqHOACcEpmjg0Gva0HYUNrY2nW ",
+            "UNIT 2": "https://drive.google.com/file/d/11W-RLjvU03h9ZOiY0VQie1mEyIEJhE8H ",
+            "UNIT 3": "https://drive.google.com/file/d/12DzA2Ly9z2-nqbGc-C9POY_akWKE56Jt ",
+            "UNIT 4": "https://drive.google.com/file/d/11Jx66fkRlvYQwOFcAUmaMSAURAZ35PbM ",
+            "UNIT 5": "https://drive.google.com/file/d/11QwdTxBynwELgiZogQkpTcdcWsq70ZZp "
+          }
+        },
+        "book": {
+          "QUANTUM": "https://drive.google.com/file/d/13F3Bx95z6rfrCjeQffTeC3aK6qDBS0Mt "
+        },
+        "important": {
+          "QUANTUM": "https://drive.google.com/file/d/12tKbMk_KXVJ2rFcYIwt0_zXsZv8AXhoC "
+        },
+        "papers": {
+          "ST-1 2022-23": "https://drive.google.com/file/d/135Ow5WdgV5Yrvj-euGSTVf-66V4cd6an ",
+          "ST-2 2022-23": "https://drive.google.com/file/d/12zjixZRS1H-3g2XT2iPtjvJODmnrBurt ",
+          "PUT 2022-23": "https://drive.google.com/file/d/11yDOVZIyddeO5fyyPR2EADC3YRDQuJ-q ",
+          "PUT 2023-24": "https://drive.google.com/file/d/121C3NJErQO0p-wgvpGMuritL1EK4PB9f ",
+          "SEM 3 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BCS302-COMPUTER-ORGANIZATION-AND-ARCHITECTURE.pdf ",
+          "SEM 3 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-KCS-302.pdf "
+        }
+      },
+      "Cyber Security": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/14sPhceHIRdmbptYShAjpiQQRqrA5bGVL ",
+          "UNIT 2": "https://drive.google.com/file/d/14rPN2jSSkuoas7byTdvdVOlvngn-eMO1 ",
+          "UNIT 3": "https://drive.google.com/file/d/14hTNCXjZm-oK9iHQtCN0m-gkvXedT_aA ",
+          "UNIT 4": "https://drive.google.com/file/d/14kMwHuaN6C8PyhU517144Ek7pVLPVEC- ",
+          "UNIT 5": "https://drive.google.com/file/d/14q4daVBdpWRqWL-_WMAICfFZnALFmy_u ",
+          "Virtual Machine": "https://drive.google.com/file/d/14gh1_Mlw5RWDkqxulQevorWQcPBzduzz "
+        },
+        "Youtube Video (Gateway Classes)": {
+          "UNIT 1": ["https://youtu.be/tJX92DuL7Mc?si=dxEpBtf_WV1eRq1b", "Watch"],
+          "UNIT 2": ["https://youtu.be/SY-DaAZbiHA?si=VOJMC9LwJbv_fudC", "Watch"],
+          "UNIT 3": ["https://youtu.be/2KHc3Au_uJY?si=qk2O01jZuoBAO7zD", "Watch"],
+          "UNIT 4": ["https://youtu.be/MZADC3EV5Ak?si=InEngweWH51v83kK", "Watch"],
+          "UNIT 5": ["https://youtu.be/n23tfBJidX4?si=Fbbh8g4efLoguHCO", "Watch"]
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BCC301-CYBER-SECURITY.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/COMPUTER-SYSTEM-SECURITY-KNC-301.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/COMPUTER-SYSTEM-SECURITY-KNC-301-2.pdf "
+        }
+      },
+      "DS (DATA SCIENCE)": {
+        "notes": {
+          "Pradeep Pant Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/15y-VsGqWSNDFNQsUis9OAr3G9Bi8BFXN ",
+            "C function 1": "https://drive.google.com/file/d/16NUxk02abPb6JdVUrlu3THMZvBRz0wAD ",
+            "C function 2": "https://drive.google.com/file/d/16Hm7EwFaZa0wzUQ--anVx2VtsCQNKEy0 ",
+            "QUEUE": "https://drive.google.com/file/d/167zcF2kCDApK8YBk6zR0woG_27bmjVbe ",
+            "STACK": "https://drive.google.com/file/d/16726ONJ5nn7_xFoFXjw2-tjUmENZb7EY ",
+            "TOH": "https://drive.google.com/file/d/165B7tTyIQ1H0ZzH9RThC13TCmyc-BDs9 ",
+            "UNIT 3": "https://drive.google.com/file/d/16-n0Qbkp6j3Mv_T90CAmP5nEHi6FXHKa ",
+            "UNIT 4": "https://drive.google.com/file/d/16SXg84dM2Bx95ie-rio0D7sCByzuv3h1 ",
+            "UNIT 5": "https://drive.google.com/file/d/16Qje4CWsMNY5MQKD9PC-0zAwb6gawTF5 "
+          },
+          "Pradeep Chauhan Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/15C6VKqhWkFwlGGRuohHIuYMi_3kS6eif ",
+            "UNIT 2": "https://drive.google.com/file/d/15sMfQRzAZBR22vleMkm9SqkGAU9kaJCK ",
+            "UNIT 3": "https://drive.google.com/file/d/15y3YlCDOq7wlRfzNXSOL1F882sPUFRC6 ",
+            "UNIT 4": "https://drive.google.com/file/d/15HllBSiDB6NLwM3NK5DLeJWszOWdaNZA ",
+            "UNIT 5": "https://drive.google.com/file/d/15BlJX46r8UpG4Q1OIdQcYEiLeTvQt4ph "
+          },
+          "University Notes": {
+            "ALL UNITS": "https://drive.google.com/file/d/13oJ4mF5wL7JAdjjVrThs1T8WPvQIUdOZ "
+          },
+          "Books": {
+            "UNIT 1": "https://drive.google.com/file/d/15e0BAM8GIO-YXWzlh7GaXlemInMuHBYa ",
+            "UNIT 2": "https://drive.google.com/file/d/15_9KRoVwuyKuiU82SCVcHIrY9D7vAx6e ",
+            "UNIT 3": "https://drive.google.com/file/d/15KVsy8dfd8rz2bfxoCwj4rDAdMoaO_jn ",
+            "UNIT 4": "https://drive.google.com/file/d/16SXg84dM2Bx95ie-rio0D7sCByzuv3h1 ",
+            "UNIT 5": "https://drive.google.com/file/d/16Qje4CWsMNY5MQKD9PC-0zAwb6gawTF5 ",
+            "QUANTUM": "https://drive.google.com/file/d/15etpiXb7wbRL8Fu_3ldJMnAFabKcEHsD "
+          }
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BCS301-DATA-STRUCTURE.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/DATA-STRUCTURE-KCS-301.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/DATA-STRUCTURE-KCS-301.pdf ",
+          "ST-1": "https://drive.google.com/file/d/13wRUVrmEmMW-gz6y6tggJ708-bedi-ho ",
+          "ST-2": "https://drive.google.com/file/d/13tZd_PaXaWOVAq8g4RtzOdOuV9wxSNz2 ",
+          "ST-3": "https://drive.google.com/file/d/13s0aOA4Go4Wpe-XLRCMa8taJcDA0OSea ",
+          "PUT 2023-24": "https://drive.google.com/file/d/15qE_cDkjOKM4zUan7NDmgN0DSjr0lrGZ ",
+          "PUT 2022-23": "https://drive.google.com/file/d/15oK5BzgjKfpzG-wlyA9e59ZzLq6TGn55 "
+        }
+      },
+      "DSTL": {
+        "notes": {
+          "Priya Mam Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/1AS-VnJFbR35vmtDiV3WI3aaYIgWRCqIz ",
+            "UNIT 2": "https://drive.google.com/file/d/1AhtjadqErwjYbRMqaqI_a9kgnSQC4qd2 ",
+            "UNIT 3": "https://drive.google.com/file/d/1AgLW47EYtJZsR54b7RBdb6bV09xRCet4 ",
+            "UNIT 4": "https://drive.google.com/file/d/1AYcpAXJJDsyxEDHbZ42_xiQ5kL3s1VZn ",
+            "UNIT 5": "https://drive.google.com/file/d/1ASfja1OHoFJBFFMN5juaN9jRO-2N3kzH "
+          },
+          "Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/191bIGl5sPjvyeztpE0dV-7skMBjV8yMo ",
+            "UNIT 2": "https://drive.google.com/file/d/19MfOqtDIcWv9bWDZvJvpRwW85Lbh-gjb ",
+            "UNIT 3": "https://drive.google.com/file/d/1985n4icA-LVw9N9QyPqCv6-3CGobDucD ",
+            "UNIT 3&4": "https://drive.google.com/file/d/18nG9uURWoO7DhL_emcs2uqd_46HdOBwK ",
+            "UNIT 5": "https://drive.google.com/file/d/1A93XKIXaU-tAboncnQFafi_7kXwmZUe6 "
+          },
+          "Books": {
+            "QUANTUM": "https://drive.google.com/file/d/1A6z6AacVCkMuQI5wx-TXeomUzePjrcZ3 "
+          }
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BCS303-DISCRETE-STRUCTURES-THEORY-OF-LOGIC.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/DISCRETE-STRUCTURES-THEORY-OF-LOGIC-KCS-303.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/DISCRETE-STRUCTURES-THEORY-OF-LOGIC-KCS-303-1.pdf ",
+          "ST-1": "https://drive.google.com/file/d/19fBqW9FkU7_FfCh7OmPTv0egZ0W53SvD ",
+          "ST-2": "https://drive.google.com/file/d/19d49oVE-NszDLK5YndW1aQh5Qii5vPoN ",
+          "PUT 2023-24": "https://drive.google.com/file/d/18jsr-BPaxZsf_8rXOfexrGQ_MHCPUid3 ",
+          "PUT 2022-23": "https://drive.google.com/file/d/18hBGRs4lNeAsN1VAstHfBTdx01EAYM9r "
+        }
+      },
+      "LASER": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1S0z9WdHeZ9PBsH_rjFGm3rAL30-fMzA8 ",
+          "UNIT 2": "https://drive.google.com/file/d/1AyTsv5ExjIK-gFysbrYvxNWR-b9W57wd ",
+          "UNIT 3": "https://drive.google.com/file/d/1KQpitOxKKt94UsM7W7aj4iYxMhDjkP-x ",
+          "UNIT 4": "https://drive.google.com/file/d/12oivT858i9KrzSBPxDyOqNXfEd2xsDkr ",
+          "UNIT 5": "https://drive.google.com/file/d/1pL0CjBzMEXsXf3qFzvy74BcoGg5zeK7_ ",
+          "Applications of Laser": "https://drive.google.com/file/d/1wb73WY6naxTcO94aLDv5zHVJeG3SIxjm "
+        },
+        "assignments": {
+          "UNIT 1, 2": "https://drive.google.com/file/d/1-AcCJqcnl87dc1XZq11yIZNP9utP8-yz ",
+          "UNIT 3": "https://drive.google.com/file/d/1BLCTj2fTi_qUQs-FmFjBL7lUQK9S6HiX ",
+          "UNIT 4": "https://drive.google.com/file/d/1G1RwF1Im9fSwA97dDOajZsbEPrCA0Pk_ ",
+          "UNIT 5": "https://drive.google.com/file/d/1sEFQHaX6GeZ2XthXc-VWuEeiXS6Xp_vI "
+        }
+      },
+      "MATHS 4": {
+        "notes": {
+          "College Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/1BzUDO-3_RrmnR13VyXRfL5ywhbrjRAZM ",
+            "UNIT 2": "https://drive.google.com/file/d/1Au8FMVgbXn9_odvtfSefIfyflMfwxr-8 ",
+            "UNIT 2 (1)": "https://drive.google.com/file/d/1C4UgQs3uEWnkE2Ii5XnAYL1nCYpZ5rBW ",
+            "UNIT 2 (2)": "https://drive.google.com/file/d/1AwSfo70TKdOb25RkgqqcOvUjYLNp9YUL ",
+            "UNIT 3": "https://drive.google.com/file/d/1BvQ-XEgynNhwiWLcoXotsgJ-1xJmVE1v ",
+            "UNIT 4": "https://drive.google.com/file/d/1CBvClHGUBCNR9XKWIBGIx458kG-lozPL ",
+            "UNIT 5": "https://drive.google.com/file/d/1BzxxCjMzBvteiFWYAX5zsbNZfuw-Fsrk "
+          },
+          "Monika Mittal Notes": {
+            "UNIT 1": "https://drive.google.com/file/d/19UUW7QYgkvmNhtEw7GRJCaUZYILZU40F ",
+            "UNIT 2": "https://drive.google.com/file/d/1AlWUAnPEZG0wB5PHWu_Ac4iiNf1Y2MKj ",
+            "UNIT 3": "https://drive.google.com/file/d/1ApFy6oGaF2zPU3XZM7gQEgfLYVTVZ9pX ",
+            "UNIT 4": "https://drive.google.com/file/d/1ArJ2uJQnG-iq8qULIFgJY8jxbXRd07io ",
+            "UNIT 5(1)": "https://drive.google.com/file/d/1AqcbU0QlibCDMK1uURYy8pFchZCTZTII "
+          }
+        }
+      },
+      "OPERATING SYSTEM": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1CFtCTmP8nGHcThwi-JDI4Ittj54NGrCC ",
+          "UNIT 2 PDF": "https://drive.google.com/file/d/1CJ44L3SrSUQAqa3yt7wzAs8XwpoiFZl4 ",
+          "UNIT 2 DOCX": "https://docs.google.com/document/d/1CiTqjTW0dtAEbKgyXHFxxGUKtH2JVdG_/edit?usp=drive_link&ouid=107009311260193305344&rtpof=true&sd=true",
+          "UNIT 3(Deadlock)": " https://drive.google.com/file/d/1CodZ1LZNEmXX_qjFNzbwVGRUVlna620_ ",
+          "UNIT 3(1)": "https://drive.google.com/file/d/1Ckpt5Vn4nrCv6s9bDkO0PJUt65GmhAf6 ",
+          "UNIT 3(2)": "https://drive.google.com/file/d/1CtpT15IRypSQyyFQFlzzjdh-1ALcSY7X ",
+          "UNIT 4(1)": "https://drive.google.com/file/d/1CmrJ_larJYRtd1Hkg-kGl55UryENtNA2 ",
+          "UNIT 4(2)": "https://drive.google.com/file/d/1C_jS9Kz_0srqM9c-S8qLkvZf3-Is0qi7 ",
+          "Unit 5": "https://drive.google.com/file/d/1DuIrmkcXK-x-ryvkZc-wABll-MFnd9J7 ",
+          "UNIT 5(RAID)": "https://drive.google.com/file/d/1CYeKdTFatKh4hPt8xEEvliFeH9ZRHlxc "
+        },
+        "assignments": {
+          "UNIT 1": "https://drive.google.com/file/d/1wblu74nxz-To_H6Ymqql8LW50a7k55hu ",
+          "UNIT 2": "https://drive.google.com/file/d/1XMtvFYQWeFk7UnPYleXBAdP2Z81sUXsT ",
+          "UNIT 3": "https://drive.google.com/file/d/1xZJxiQcxUuT7j9Cb_4iXXCpW_wEg76FE ",
+          "UNIT 4": "https://drive.google.com/file/d/1ITwrQnk-MZ2uQR86WfubaAe8Skal1Bj9 ",
+          "UNIT 5": "https://drive.google.com/file/d/1AhYPQF9M_hnZe4iBOuqdv-R0unuRGl4b "
+        }
+      },
+      "OOPS WITH JAVA": {
+        "notes": {
+          "Complete": "https://drive.google.com/file/d/178VoKN8_RuTZDO0uMi5ze_D12YpfOOMN "
+        }
+      },
+      "SENSORS AND INSTRUMENTS": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1D4MW8Ngn8RkTR-kYlFPtrB1cncDXQi4s ",
+          "UNIT 2": "https://drive.google.com/file/d/1D-oRVyp38KLNfazl0brhnSMv5chQX5VV ",
+          "UNIT 3": "https://drive.google.com/file/d/1CvL8FXQkhppi91QKz8c9u6mtlzkxUt1p ",
+          "UNIT 4": "https://drive.google.com/file/d/1EJI8Mljcnt1RwwwV0oBgH53f_-D1Xkf0 ",
+          "UNIT 5": "https://drive.google.com/file/d/1ECCtkAf3rzfP9mFFGjLi08I3HHJ3lqeg "
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BOE305-SENSOR-INSTRUMENTATION.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/SENSOR-AND-INSTRUMENTATION-KOE-034.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/SENSOR-AND-INSTRUMENTATION-KOE-034-2.pdf ",
+          "ST-1": "https://drive.google.com/file/d/1Ei4HEy79UNHKzQOWYkyOkPKPvTERcxzY ",
+          "ST-2": "https://drive.google.com/file/d/1EePE4pfb6vN727_O0Ft66AhIksEWvNXs ",
+          "PUT 2023-24": "https://drive.google.com/file/d/1FBNEwQI0rbqHXS_XEFYgyTZFta5CoFLo ",
+          "PUT 2022-23": "https://drive.google.com/file/d/1FEP8kaz1G6jOuBf9WOgKeTR-UtgoZV3r "
+        }
+      },
+      "TECHNICAL COMMUNICATION": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1GuhWG1D59-QbCOhvFB-SuXRiNWSnMvDS ",
+          "UNIT 2": "https://drive.google.com/file/d/1G2bIWR6HXKTe3JnVxaJSHud3HW_-1gv2 ",
+          "UNIT 3": "https://drive.google.com/file/d/1Fy7JK5GWCzSgvDuHdQOdi889TS-dZGkY ",
+          "UNIT 4": "https://drive.google.com/file/d/1FwOhBjHqCyAKdQR2NK-DfgOm4S1xl-9I ",
+          "UNIT 5": "https://drive.google.com/file/d/1GKbjSGoSabD1rB_e7PeMKqRtvIjLK4y2 "},
+        "AQSA ma'am notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1GpTu_oRukWkB-2x4zmIcntWUbI-FX5Dp ",
+          "UNIT 2": "https://drive.google.com/file/d/1GI2hihZrFaZ0cwhn-KZgpbxwgiEqVd4N ",
+          "UNIT 3": "https://drive.google.com/file/d/1GmOpxc1yFRMQLNqS2txsjNHA7ZMduTk4 ",
+          "UNIT 4": "https://drive.google.com/file/d/1GfgRA3Hj2CRlCW6IzXKyySjgYZyuFHBE ",
+          "UNIT 5": "https://drive.google.com/file/d/1GOpc_CPQKhIoMYCaWywvbtBNiWeXqokI "
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BAS301-TECHNICAL-COMMUNICATION.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/Technical-Communication-KAS-301.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/TECHNICAL-COMMUNICATION-KAS-301-2.pdf ",
+          "ST-1": "https://drive.google.com/file/d/1Fos0N1LdC5HD9yn22qW_eqAQgg0CCM5z ",
+          "ST-2": "https://drive.google.com/file/d/1FkMHIBLSoXfpUYsJHlTSRjA9imambfiG "
+        },
+        "Youtube video": {
+          "Playlist Gateway Classes": ["https://youtube.com/playlist?list=PL-vEH_IPWrhDLjpdj5aloafN7GCXJDvcA&si=-7h2p3DHVQTQjBoX", "Watch Playlist"]
+        }
+      },
+      "UHV": {
+        "notes": {
+          "UNIT 1": "https://drive.google.com/file/d/1H6BeDLbnAcyC3tRDmAaAXPfx99TBlDQe ",
+          "UNIT 2": "https://drive.google.com/file/d/1H3KN5s1RCPODWPuaCg7eo3KjsBgtItyS ",
+          "UNIT 3": "https://drive.google.com/file/d/1H2JDHmUWcnMD8OKZrBfLxqxE7LVQsnH6 ",
+          "UNIT 4 & 5": "https://drive.google.com/file/d/1JCxuvN07mAB1OtPW2pxq6DL-wGhv7Tia "
+        },
+        "papers": {
+          "AKTU 2023-24": "https://www.abesit.in/wp-content/uploads/2024/07/BVE301-UNIVERSAL-HUMAN-VALUES-AND-PROFESSIONAL-ETHICS.pdf ",
+          "AKTU 2022-23": "https://www.abesit.in/wp-content/uploads/2023/07/UNIVERSAL-HUMAN-VALUES-KVE-301.pdf ",
+          "AKTU 2021-22": "https://www.abesit.in/wp-content/uploads/2023/03/UNIVERSAL-HUMAN-VALUES-KVE-301-1.pdf "
+        }
+      },
+      "Web Development": {
+        "notes": {
+          "Introduction to HTML": "https://drive.google.com/file/d/1K6E2GsZLcDy2FXZ2Ptg9HFKvS9AZDoLt ",
+          "Syllabus": "https://drive.google.com/file/d/1FTZQu48XEszuh7WAbCcv4rbi8t-7QzAR "
+        }
+      }
+    }
+  }
+}

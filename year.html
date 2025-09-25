@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>b.techwala - Year</title>
+    <meta property="og:title" content="b.techwala - Year">
+    <meta property="og:description" content="All notes, assignments and Papers for B.Tech">
+    <meta property="og:image" content="https://raw.githubusercontent.com/btechwala/btechwala.github.io/main/pic/bb.png">
+    <meta property="og:url" content="btechwala.co.in">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="pic/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="content">
+      <div class="logo"><span style="color: red;">b.</span>techwala</div>
+      <ul class="menu-list">
+        <div class="icon cancel-btn">
+          <img src="pic/twhite.png" height="50px">
+        </div>
+        <li><a href="index.html">Home</a></li>
+        <li><a id="howtodownload" target="_blank">How to download?</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contactus.html">Contact</a></li>
+        <li><a href="#" id="dmode">Dark Mode</a></li>
+      </ul>
+      
+      <div class="icon menu-btn">
+        <img src="pic/blwhite.png" height="50px">
+      </div>
+    </div>
+  </nav>
+
+  <div class="banner2"></div>
+  <div class="about">
+    <div class="content">
+      <div class="title"><span style="font-size: 35px; font-weight: 800;">Select Subject</span></div><br>
+      <div id="group-buttons">
+        <!-- Subject buttons will be dynamically loaded here -->
+      </div>
+      <p class="note">Note: You will find sessional papers in Subject->Papers</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <script>
+    // Function to load JSON data
+    async function loadData() {
+      try {
+        const response = await fetch('data.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        console.log('Data loaded successfully for year.html:', data);
+        renderSubjects(data);
+      } catch (error) {
+        console.error('Error loading data in year.html:', error);
+        document.getElementById('group-buttons').innerHTML = '<p>Error loading data. Please check console for details.</p>';
+      }
+    }
+
+    // Function to render subject buttons dynamically based on URL (no groups in data.json, directly subjects under year)
+    function renderSubjects(data) {
+      const subjectContainer = document.getElementById('group-buttons');
+      const urlParams = new URLSearchParams(window.location.search);
+      const yearKey = urlParams.get('year');
+      let subjectButtonsHTML = '';
+      
+      // Check if the year key exists in data.home
+      if (data.home[yearKey]) {
+        console.log('Year found:', yearKey);
+        const yearName = yearKey.charAt(0).toUpperCase() + yearKey.slice(1);
+        document.title = `b.techwala - ${yearName} Year`;
+        const subjects = Object.keys(data.home[yearKey]); // Get subjects like 'physics', 'chemistry'
+        subjects.forEach(subjectKey => {
+          const subjectName = subjectKey.charAt(0).toUpperCase() + subjectKey.slice(1); // Capitalize first letter
+          subjectButtonsHTML += `<button class="grpbtn" onclick="window.location.href='subject.html?year=${yearKey}&subject=${subjectKey}'">${subjectName}</button><br>`;
+        });
+      } else {
+        console.error('Year not found:', yearKey);
+        subjectButtonsHTML = `<p>Year not found.</p>`;
+      }
+      
+      subjectButtonsHTML += `<br><br><br>`;
+      subjectContainer.innerHTML = subjectButtonsHTML;
+    }
+
+    // Load data when the page loads
+    window.onload = loadData;
+  </script>
+</body>
+</html>
